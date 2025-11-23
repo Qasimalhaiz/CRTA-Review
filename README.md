@@ -1,4 +1,4 @@
-# Certified Red Team Analyst (CRTA) Exam Review
+# Certified Red Team Analyst ( CRTA ) Exam Review
 
 <img width="1400" height="990" alt="CRTA" src="https://github.com/user-attachments/assets/14b5864e-fcb1-4048-b026-015119efe198" />
 
