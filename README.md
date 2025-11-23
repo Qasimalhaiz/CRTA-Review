@@ -53,7 +53,7 @@ In my case, this structured approach allowed me to complete what is typically a 
 
 ## Final Thoughts
 
-The CRTA exam provides a straightforward but meaningful assessment of Active Directory attack fundamentals. It emphasizes core red team techniques—LFI, credential access, ACL abuse, DCSync, and pass‑the‑hash—without distractions, making it a strong benchmark for anyone refining their AD exploitation workflow.
+The CRTA exam provides a straightforward but meaningful assessment of Active Directory attack fundamentals. It emphasizes core red team techniques—LFI, credential access, ACL abuse, DCSync, and pass‑the‑hash without distractions, making it a strong benchmark for anyone refining their AD exploitation workflow.
 
 This concise and targeted engagement offered an excellent opportunity to validate practical skills and reinforce the importance of clear thinking, accurate enumeration, and controlled execution.
 **Achievement:** Successfully completed the **CRTA exam**, demonstrating practical proficiency in Active Directory red teaming and offensive security operations.
