@@ -38,6 +38,7 @@ Instrumental in retrieving stored authentication artifacts and progressing acros
 ### **• ACL Misconfigurations**
 Incorrectly assigned permissions on AD objects opened the door to controlling accounts and escalating privileges.
 
+
 These attack sequences form the backbone of the exam.
 
 ---
